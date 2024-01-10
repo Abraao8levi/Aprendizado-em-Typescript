@@ -43,5 +43,5 @@ async function displayWeather(city: string = "Sao Paulo"): Promise<void> {
   }
 }
 
-// Exemplo com a localização do Brasil (São Paulo)
+// Exemplo com a localização do Brasil (Ceará)
 displayWeather("Ceará");
